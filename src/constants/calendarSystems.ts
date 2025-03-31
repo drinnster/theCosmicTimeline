@@ -1,0 +1,1 @@
+export const gregorianCalendarYear = 443; // Gregorian calendar established
