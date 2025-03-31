@@ -35,6 +35,10 @@ src/vite-env.d.ts
 
 # Environment files  
 .env*  
+eslint.config.js  
+tsconfig.app.json  
+vite.config.ts  
+src/vite-env.d.ts 
 
 # Vite  
 .vite/  
