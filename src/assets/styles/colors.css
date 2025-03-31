@@ -3,6 +3,8 @@
 @tailwind components;
 @tailwind utilities;
 
+
+/* Custom colours */
 @layer base {
   :root {
     --color-deepspaceblue: #0D1B2A;
@@ -15,3 +17,23 @@
     --color-darkmatterblack: #121212;
   }
 }
+
+/* Custom colours as background classes */
+.bg-deepspaceblue { background-color: var(--color-deepspaceblue); }
+.bg-nebulapurple { background-color: var(--color-nebulapurple); }
+.bg-galacticteal { background-color: var(--color-galacticteal); }
+.bg-stellargold { background-color: var(--color-stellargold); }
+.bg-eclipsegray { background-color: var(--color-eclipsegray); }
+.bg-supernovawhite { background-color: var(--color-supernovawhite); }
+.bg-meteororange { background-color: var(--color-meteororange); }
+.bg-darkmatterblack { background-color: var(--color-darkmatterblack); }
+
+/* Custom colours as text classes */
+.text-deepspaceblue { color: var(--color-deepspaceblue); }
+.text-nebulapurple { color: var(--color-nebulapurple); }
+.text-galacticteal { color: var(--color-galacticteal); }
+.text-stellargold { color: var(--color-stellargold); }
+.text-eclipsegray { color: var(--color-eclipsegray); }
+.text-supernovawhite { color: var(--color-supernovawhite); }
+.text-meteororange { color: var(--color-meteororange); }
+.text-darkmatterblack { color: var(--color-darkmatterblack); }
