@@ -1,21 +1,15 @@
-import { useState } from 'react'
-import './App.css'
+import React from 'react';
+import { cosmicYear, earthFormationYear, firstHumansYear } from './constants';
 
-function App() {
-  const [count, setCount] = useState(0)
-
+const App = () => {
   return (
-    <>
-      <div>
-        <h1 class="text-supernovawhite">The Cosmic Timeline</h1>
-      <div class="mt-5">
-        <button class="rounded-full bg-meteororange text-supernovawhite px-6 py-2">
-          Testing Tailwind test
-        </button>
-      </div>
-      </div>
-    </>
-  )
-}
+    <div className="App">
+      <h1>The Cosmic Timeline</h1>
+      <p>Cosmic Year: {cosmicYear} years</p>
+      <p>Earth Formation: {earthFormationYear} years ago</p>
+      <p>First Humans Appeared: {firstHumansYear} years ago</p>
+    </div>
+  );
+};
 
-export default App
+export default App;
