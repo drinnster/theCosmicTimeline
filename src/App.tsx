@@ -10,7 +10,7 @@ function App() {
         <h1 class="text-supernovawhite">The Cosmic Timeline</h1>
       <div class="mt-5">
         <button class="rounded-full bg-meteororange text-supernovawhite px-6 py-2">
-          Testing Tailwind
+          Testing Tailwind test
         </button>
       </div>
       </div>
