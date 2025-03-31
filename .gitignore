@@ -22,3 +22,19 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Dependencies  
+node_modules/  
+dist/  
+.vite/  
+*.log  
+
+# TypeScript  
+*.tsbuildinfo  
+src/vite-env.d.ts  
+
+# Environment files  
+.env*  
+
+# Vite  
+.vite/  
