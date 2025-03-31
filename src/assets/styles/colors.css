@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-deepspaceblue: #0D1B2A;
+    --color-nebulapurple: #5A189A;
+    --color-galacticteal: #1B4965;
+    --color-stellargold: #FFD700;
+    --color-eclipsegray: #495867;
+    --color-supernovawhite: #F8F9FA;
+    --color-meteororange: #FF6D00;
+    --color-darkmatterblack: #121212;
+  }
+}
