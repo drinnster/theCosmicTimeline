@@ -1,5 +1,5 @@
 @import 'tailwindcss';
-@import "./assets/styles/colors.css";
+@import './styles/colors.css';
 
 #root {
   max-width: 1280px;
