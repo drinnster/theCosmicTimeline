@@ -67,6 +67,11 @@ While the **Cosmic Timeline** assumes the **Big Bang as Year 0**, alternative th
 
 These perspectives offer alternative starting points, but for practical purposes, the **Cosmic Timeline** uses the Big Bang as the most scientifically recognized origin of time.
 
+### New Insights on Universe's Origin: Spinning Galaxies
+Recent findings from the **James Webb Space Telescope (JWST)** suggest the possibility that the universe may have been born rotating. This aligns with **Black Hole Cosmology**, which posits that the universe could be the interior of a black hole. Such findings challenge current cosmological models, suggesting that our understanding of the universe’s origin might be incomplete. The concept that the cosmos began with rotational motion could significantly alter how we view the Big Bang and the evolution of the universe.
+
+For more details, see [this study](https://www.k-state.edu/news/articles/2025/03/lior-shamir-james-webb-space-telescope-spinning-galaxies.html).
+
 ---
 
 ## The Role of the James Webb Space Telescope (JWST)

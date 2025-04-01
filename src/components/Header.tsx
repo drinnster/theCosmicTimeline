@@ -1,4 +1,4 @@
-import { PlusIcon, SettingsIcon } from "../assets/icons";
+import { InfoIcon, SettingsIcon } from "../assets/icons";
 import timelineData from "../data/timelineData.json"; // Importing JSON
 
 const Header = ({ selectedCalendar, handleCalendarChange }) => {
@@ -22,12 +22,11 @@ const Header = ({ selectedCalendar, handleCalendarChange }) => {
             ))}
           </select>
         </div>
-
       {/* Right: Info and Settings */}
       <div className="flex items-center gap-4">
         {/* About Button */}
         <button className="rounded-full bg-galacticteal px-6 py-2 flex items-center gap-2">
-          About the project <PlusIcon />
+          <InfoIcon />
         </button>
         <button className="rounded-full bg-galacticteal px-6 py-2 flex items-center">
           <SettingsIcon />

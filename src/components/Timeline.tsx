@@ -1,6 +1,3 @@
-import { useState } from "react";
-import Header from "../components/Header";
-import timelineData from "../data/timelineData.json"; // Assuming data is structured correctly
 import { formatNumber } from "../utils/format";
 
 const Timeline = ({ selectedCalendar, timelineData }) => {
