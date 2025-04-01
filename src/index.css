@@ -5,11 +5,8 @@
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
   background-color: var(--color-deepspaceblue);
-
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -27,11 +24,9 @@ a:hover {
 
 body {
   margin: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 320px;
+  
   min-height: 100vh;
+  width: 100vw;
 }
 
 h1 {
@@ -39,15 +34,58 @@ h1 {
   line-height: 1.1;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+/* Header Styling */
+header {
+  width: 100%;
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header .text-xl {
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+header button {
+  padding: 10px 20px;
+  border-radius: 50px;
+  font-size: 1rem;
+  border: none;
+}
+
+header button:hover {
+}
+
+/* Content Styling */
+.Content {
+  margin: auto;
+  max-width: 1200px; /* Adjust max-width for larger screens */
+  padding: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.Content h1 {
+  font-size: 2rem;
+}
+
+.Content p {
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}
+
+/* Calendar Select */
+#calendarSelect {
+  width: 200px;
+}
+#calendarSelect::after {
+  content: '▼';
+  position: absolute;
+  top: 50%;
+  right: 50px;
+  transform: translateY(-50%);
+  color: white;
+  pointer-events: none; /* So the arrow doesn't interfere with clicks */
 }

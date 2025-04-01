@@ -1,21 +1,21 @@
-import React from 'react';
-import { cosmicYear, earthFormationYear, firstHumansYear } from './constants/cosmicTimeline';
-import { firstWrittenRecordsYear, pyramidsBuiltYear } from './constants/humanHistory';
-import { gregorianCalendarYear } from './constants/calendarSystems';
-import { yearsAgo } from './constants/yearsAgo';
+import React, { useState } from 'react';
+import Header from './components/Header';
+import Timeline from './components/Timeline';
+import timelineData from './data/timelineData.json';
 
-const App = () => {
+function App() {
+  const [selectedCalendar, setSelectedCalendar] = useState("Gregorian"); // Default calendar
+
+  const handleCalendarChange = (event) => {
+    setSelectedCalendar(event.target.value); // Update calendar on selection change
+  };
+
   return (
     <div className="App">
-      <h1>The Cosmic Timeline</h1>
-      <p>Cosmic Year: {cosmicYear} years</p>
-      <p>Earth Formation: {yearsAgo(earthFormationYear)}</p>
-      <p>First Humans Appeared: {yearsAgo(firstHumansYear)}</p>
-      <p>First Written Records: {yearsAgo(firstWrittenRecordsYear)}</p>
-      <p>Pyramids Built: {yearsAgo(pyramidsBuiltYear)}</p>
-      <p>Gregorian Calendar Established: {gregorianCalendarYear} years ago</p>
+      <Header selectedCalendar={selectedCalendar} handleCalendarChange={handleCalendarChange} />
+      <Timeline selectedCalendar={selectedCalendar} timelineData={timelineData} /> {/* Pass selectedCalendar here */}
     </div>
   );
-};
+}
 
 export default App;

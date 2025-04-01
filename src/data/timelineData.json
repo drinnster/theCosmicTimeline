@@ -1,0 +1,290 @@
+{
+    "Buddhist": [
+      {
+        "event": "test",
+        "traditionalYear": "N/A",
+        "yearsAgo": 13800000000
+      },
+      {
+        "event": "Earth Formation",
+        "traditionalYear": "N/A",
+        "yearsAgo": 4500000000
+      },
+      {
+        "event": "First Humans Appeared",
+        "traditionalYear": "N/A",
+        "yearsAgo": 300000
+      },
+      {
+        "event": "First Written Records",
+        "traditionalYear": "3,000 BCE",
+        "yearsAgo": 5000
+      },
+      {
+        "event": "Pyramids Built",
+        "traditionalYear": "2,500 BCE",
+        "yearsAgo": 4500
+      },
+      {
+        "event": "Gregorian Calendar Established",
+        "traditionalYear": "1582 CE",
+        "yearsAgo": 440
+      }
+    ],
+    "Gregorian": [
+      {
+        "event": "Cosmic Year",
+        "traditionalYear": "N/A",
+        "yearsAgo": 13800000000
+      },
+      {
+        "event": "Earth Formation",
+        "traditionalYear": "N/A",
+        "yearsAgo": 4500000000
+      },
+      {
+        "event": "First Humans Appeared",
+        "traditionalYear": "N/A",
+        "yearsAgo": 300000
+      },
+      {
+        "event": "First Written Records",
+        "traditionalYear": "3,000 BCE",
+        "yearsAgo": 5000
+      },
+      {
+        "event": "Pyramids Built",
+        "traditionalYear": "2,500 BCE",
+        "yearsAgo": 4500
+      },
+      {
+        "event": "Gregorian Calendar Established",
+        "traditionalYear": "1582 CE",
+        "yearsAgo": 1337
+      }
+    ],
+    "Chinese": [
+      {
+        "event": "Cosmic Year",
+        "traditionalYear": "N/A",
+        "yearsAgo": 13800000000
+      },
+      {
+        "event": "Earth Formation",
+        "traditionalYear": "N/A",
+        "yearsAgo": 4500000000
+      },
+      {
+        "event": "First Humans Appeared",
+        "traditionalYear": "N/A",
+        "yearsAgo": 300000
+      },
+      {
+        "event": "First Written Records",
+        "traditionalYear": "3,000 BCE",
+        "yearsAgo": 5000
+      },
+      {
+        "event": "Pyramids Built",
+        "traditionalYear": "2,500 BCE",
+        "yearsAgo": 4500
+      },
+      {
+        "event": "Gregorian Calendar Established",
+        "traditionalYear": "1582 CE",
+        "yearsAgo": 440
+      }
+    ],
+    "Cosmic": [
+      {
+        "event": "Cosmic Year",
+        "traditionalYear": "N/A",
+        "yearsAgo": 13800000000
+      },
+      {
+        "event": "Earth Formation",
+        "traditionalYear": "N/A",
+        "yearsAgo": 4500000000
+      },
+      {
+        "event": "First Humans Appeared",
+        "traditionalYear": "N/A",
+        "yearsAgo": 300000
+      },
+      {
+        "event": "First Written Records",
+        "traditionalYear": "3,000 BCE",
+        "yearsAgo": 5000
+      },
+      {
+        "event": "Pyramids Built",
+        "traditionalYear": "2,500 BCE",
+        "yearsAgo": 4500
+      },
+      {
+        "event": "Gregorian Calendar Established",
+        "traditionalYear": "1582 CE",
+        "yearsAgo": 440
+      }
+    ],
+    "Hebrew": [
+      {
+        "event": "Cosmic Year",
+        "traditionalYear": "N/A",
+        "yearsAgo": 13800000000
+      },
+      {
+        "event": "Earth Formation",
+        "traditionalYear": "N/A",
+        "yearsAgo": 4500000000
+      },
+      {
+        "event": "First Humans Appeared",
+        "traditionalYear": "N/A",
+        "yearsAgo": 300000
+      },
+      {
+        "event": "First Written Records",
+        "traditionalYear": "3,000 BCE",
+        "yearsAgo": 5000
+      },
+      {
+        "event": "Pyramids Built",
+        "traditionalYear": "2,500 BCE",
+        "yearsAgo": 4500
+      },
+      {
+        "event": "Gregorian Calendar Established",
+        "traditionalYear": "1582 CE",
+        "yearsAgo": 440
+      }
+    ],
+    "Hindu": [
+      {
+        "event": "Cosmic Year",
+        "traditionalYear": "N/A",
+        "yearsAgo": 13800000000
+      },
+      {
+        "event": "Earth Formation",
+        "traditionalYear": "N/A",
+        "yearsAgo": 4500000000
+      },
+      {
+        "event": "First Humans Appeared",
+        "traditionalYear": "N/A",
+        "yearsAgo": 300000
+      },
+      {
+        "event": "First Written Records",
+        "traditionalYear": "3,000 BCE",
+        "yearsAgo": 5000
+      },
+      {
+        "event": "Pyramids Built",
+        "traditionalYear": "2,500 BCE",
+        "yearsAgo": 4500
+      },
+      {
+        "event": "Gregorian Calendar Established",
+        "traditionalYear": "1582 CE",
+        "yearsAgo": 440
+      }
+    ],
+    "Islamic": [
+      {
+        "event": "Cosmic Year",
+        "traditionalYear": "N/A",
+        "yearsAgo": 13800000000
+      },
+      {
+        "event": "Earth Formation",
+        "traditionalYear": "N/A",
+        "yearsAgo": 4500000000
+      },
+      {
+        "event": "First Humans Appeared",
+        "traditionalYear": "N/A",
+        "yearsAgo": 300000
+      },
+      {
+        "event": "First Written Records",
+        "traditionalYear": "3,000 BCE",
+        "yearsAgo": 5000
+      },
+      {
+        "event": "Pyramids Built",
+        "traditionalYear": "2,500 BCE",
+        "yearsAgo": 4500
+      },
+      {
+        "event": "Gregorian Calendar Established",
+        "traditionalYear": "1582 CE",
+        "yearsAgo": 440
+      }
+    ],
+    "Julian": [
+      {
+        "event": "Cosmic Year",
+        "traditionalYear": "N/A",
+        "yearsAgo": 13800000000
+      },
+      {
+        "event": "Earth Formation",
+        "traditionalYear": "N/A",
+        "yearsAgo": 4500000000
+      },
+      {
+        "event": "First Humans Appeared",
+        "traditionalYear": "N/A",
+        "yearsAgo": 300000
+      },
+      {
+        "event": "First Written Records",
+        "traditionalYear": "3,000 BCE",
+        "yearsAgo": 5000
+      },
+      {
+        "event": "Pyramids Built",
+        "traditionalYear": "2,500 BCE",
+        "yearsAgo": 4500
+      },
+      {
+        "event": "Gregorian Calendar Established",
+        "traditionalYear": "1582 CE",
+        "yearsAgo": 440
+      }
+    ],
+    "Persian": [
+      {
+        "event": "Cosmic Year",
+        "traditionalYear": "N/A",
+        "yearsAgo": 13800000000
+      },
+      {
+        "event": "Earth Formation",
+        "traditionalYear": "N/A",
+        "yearsAgo": 4500000000
+      },
+      {
+        "event": "First Humans Appeared",
+        "traditionalYear": "N/A",
+        "yearsAgo": 300000
+      },
+      {
+        "event": "First Written Records",
+        "traditionalYear": "3,000 BCE",
+        "yearsAgo": 5000
+      },
+      {
+        "event": "Pyramids Built",
+        "traditionalYear": "2,500 BCE",
+        "yearsAgo": 4500
+      },
+      {
+        "event": "Gregorian Calendar Established",
+        "traditionalYear": "1582 CE",
+        "yearsAgo": 440
+      }
+    ]
+  }
